@@ -1,0 +1,14 @@
+{
+  "name": "website",
+  "private": true,
+  "dependencies": {
+    "bourbon": "~4.0.2",
+    "neat": "~1.7.0",
+    "jquery": "~1.11.0",
+    "normalize-css": "~3.0.2",
+    "waypoints": "~3.1.1",
+    "lightbox2": "~2.7.1",
+    "Font-Awesome": "~4.3.0"
+  },
+  "devDependencies": {}
+}
