@@ -89,6 +89,9 @@ h3 {
 #About {
   background-color: black; }
 
+.About-content {
+  margin-bottom: -4px; }
+
 .Home-image {
   width: 100%; }
 
@@ -170,6 +173,15 @@ li:hover {
   background-color: #282828;
   padding-top: 20px;
   margin-bottom: -80px; }
+
+.scroll {
+  max-width: 100%; }
+
+.skills-scroll {
+  margin-bottom: -5px; }
+
+.about-scroll {
+  margin-bottom: -5px; }
 
 /*****************************************************************************
   Module Styles
