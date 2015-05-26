@@ -107,6 +107,7 @@ h3 {
 }
 .About-content {
 	//height: 964px;
+	margin-bottom: -4px;
 }
 
 .Home-image {
@@ -191,6 +192,15 @@ li:hover {
 	padding-top: 20px;
 	margin-bottom: -80px;
 	//overflow: auto;
+}
+.scroll {
+	max-width: 100%;
+}
+.skills-scroll {
+	margin-bottom: -5px;
+}
+.about-scroll {
+	margin-bottom: -5px;
 }
 
 
